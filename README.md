@@ -1,2 +1,2 @@
-# pythonProject
-python project
+# AutoTools - 自动化工具
+集成按键、鼠标等工具一身。
