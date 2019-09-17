@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+	<threads>
+		<thread id="td_001" name="打怪">
+			<detail>
+				<row />
+			</detail>
+		</thread>
+	</threads>
+	<tasks>
+    </tasks>
+	<functions>
+		<function desc="功能描述" name="功能名" rowId="F-1909161633354">
+			<node rowId="N-190916162050" />
+		</function>
+		<function desc="功能描述" name="功能名" rowId="F-1909161633367" />
+		<function desc="功能描述" name="功能名123" rowId="F-1909170940517" />
+		<function desc="功能描述" name="功能名1" rowId="F-1909170959264" />
+		<function desc="功能描述" name="功能名11" rowId="F-1909170959265" />
+		<function desc="功能描述" name="功能名" rowId="F-1909170959267" />
+		<function desc="功能描述" name="功能名" rowId="F-1909171239192" />
+	</functions>
+	<nodes>
+		<node delay="1" desc="按键[1] 延迟[1]" key="1" name="按键1" nodeType="key" rowId="N-190916162050" />
+		<node delay="1" desc="按键[2] 延迟[1]" key="2" name="按键2" nodeType="key" rowId="N-190916162055" />
+		<node delay="1" desc="按键[3] 延迟[1]" key="3" name="按键3" nodeType="key" rowId="N-190916162059" />
+		<node delay="1" desc="按键[4] 延迟[1]" key="4" name="按键4" nodeType="key" rowId="N-190916162103" />
+		<node delay="1" desc="按键[5] 延迟[1]" key="5" name="按键5" nodeType="key" rowId="N-190916162107" />
+		<node delay="1" desc="按键[6] 延迟[1]" key="6" name="按键6" nodeType="key" rowId="N-190916162123" />
+		<node delay="1" desc="按键[7] 延迟[1]" key="7" name="按键7" nodeType="key" rowId="N-190916162127" />
+		<node delay="1" desc="按键[8] 延迟[1]" key="8" name="按键8" nodeType="key" rowId="N-190916162130" />
+		<node delay="1" desc="按键[9] 延迟[1]" key="9" name="按键9" nodeType="key" rowId="N-190916162134" />
+		<node delay="1" desc="按键[0] 延迟[1]" key="0" name="按键0" nodeType="key" rowId="N-190916162137" />
+		<node delay="1" desc="按键[f1] 延迟[1]" key="f1" name="按键F1" nodeType="key" rowId="N-190916162147" />
+		<node delay="1" desc="按键[f2] 延迟[1]" key="f2" name="按键F2" nodeType="key" rowId="N-190916162152" />
+		<node delay="1" desc="按键[f3] 延迟[1]" key="f3" name="按键F3" nodeType="key" rowId="N-190916162156" />
+		<node delay="1" desc="按键[f4] 延迟[1]" key="f4" name="按键F4" nodeType="key" rowId="N-190916162201" />
+		<node delay="1" desc="按键[f5] 延迟[1]" key="f5" name="按键F5" nodeType="key" rowId="N-190916162205" />
+		<node delay="1" desc="按键[f6] 延迟[1]" key="f6" name="按键F6" nodeType="key" rowId="N-190916162210" />
+		<node delay="1" desc="按键[f7] 延迟[1]" key="f7" name="按键F7" nodeType="key" rowId="N-190916162214" />
+		<node delay="1" desc="按键[f8] 延迟[1]" key="f8" name="按键F8" nodeType="key" rowId="N-190916162218" />
+		<node delay="1" desc="按键[f9] 延迟[1]" key="f9" name="按键F9" nodeType="key" rowId="N-190916162222" />
+		<node delay="1" desc="按键[f10] 延迟[1]" key="f10" name="按键F10" nodeType="key" rowId="N-190916162229" />
+		<node delay="1" desc="按键[f12] 延迟[1]" key="f12" name="按键F12" nodeType="key" rowId="N-190916162233" />
+		<node delay="1" desc="按键[f11] 延迟[1]" key="f11" name="按键F11" nodeType="key" rowId="N-190916162237" />
+		<node delay="1" desc="按键[f11] 延迟[1]" key="f11" name="按键" nodeType="key" rowId="N-190916162346" />
+	</nodes>
+</root>
